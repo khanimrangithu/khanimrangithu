@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/khanimrangithu" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="khanimrangithu" width="40" height="40" /></a>
-  <a href="https://www.linkedin.com/in/imran-khan-9b2a0b292" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="Imran Khan" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/imran1998/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="Imran Khan" width="40" height="40" /></a>
   <a href="https://www.hackerrank.com/profile/khanimran18509" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Imran Khan" width="40" height="40" /></a>
 </p>
 
